@@ -28,7 +28,7 @@ To view or modify the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ableton.git
+   git clone https://github.com/inquaid/ableton.git
    ```
 2. Navigate to the project directory:
    ```bash
